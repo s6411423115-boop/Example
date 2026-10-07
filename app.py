@@ -4,4 +4,4 @@ name = st.text_input("quot;Enter your name&quot")
 
 b = st.button("click Me")
 if b:
- st.write(f"quot;Hello, {name}!")
+ st.write(f"Hello, {name}!")
